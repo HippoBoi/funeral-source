@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RIODASU.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="riodasu down0000" x="0" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu down0001" x="551" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu down0002" x="1102" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu down0003" x="1653" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu down0004" x="2204" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu down0005" x="2755" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu down0006" x="2755" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu down0007" x="2755" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu down0008" x="2755" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu down0009" x="2755" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu idle0000" x="3306" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu idle0001" x="3306" y="0" width="551" height="627"/>
+	<SubTexture name="riodasu idle0002" x="0" y="627" width="551" height="627"/>
+	<SubTexture name="riodasu idle0003" x="551" y="627" width="551" height="627"/>
+	<SubTexture name="riodasu idle0004" x="1102" y="627" width="551" height="627"/>
+	<SubTexture name="riodasu idle0005" x="1653" y="627" width="551" height="627"/>
+	<SubTexture name="riodasu idle0006" x="1653" y="627" width="551" height="627"/>
+	<SubTexture name="riodasu idle0007" x="1653" y="627" width="551" height="627"/>
+	<SubTexture name="riodasu idle0008" x="1653" y="627" width="551" height="627"/>
+	<SubTexture name="riodasu idle0009" x="1653" y="627" width="551" height="627"/>
+	<SubTexture name="riodasu left0000" x="2204" y="627" width="551" height="627" frameX="-1" frameY="0" frameWidth="552" frameHeight="627"/>
+	<SubTexture name="riodasu left0001" x="2204" y="627" width="551" height="627" frameX="-1" frameY="0" frameWidth="552" frameHeight="627"/>
+	<SubTexture name="riodasu left0002" x="2755" y="627" width="551" height="627" frameX="-1" frameY="0" frameWidth="552" frameHeight="627"/>
+	<SubTexture name="riodasu left0003" x="3306" y="627" width="551" height="627" frameX="-1" frameY="0" frameWidth="552" frameHeight="627"/>
+	<SubTexture name="riodasu left0004" x="0" y="1254" width="551" height="627" frameX="-1" frameY="0" frameWidth="552" frameHeight="627"/>
+	<SubTexture name="riodasu left0005" x="551" y="1254" width="552" height="627"/>
+	<SubTexture name="riodasu right0000" x="1103" y="1254" width="551" height="627" frameX="0" frameY="0" frameWidth="565" frameHeight="627"/>
+	<SubTexture name="riodasu right0001" x="1654" y="1254" width="552" height="627" frameX="0" frameY="0" frameWidth="565" frameHeight="627"/>
+	<SubTexture name="riodasu right0002" x="2206" y="1254" width="558" height="627" frameX="0" frameY="0" frameWidth="565" frameHeight="627"/>
+	<SubTexture name="riodasu right0003" x="2764" y="1254" width="565" height="627"/>
+	<SubTexture name="riodasu right0004" x="3329" y="1254" width="558" height="627" frameX="0" frameY="0" frameWidth="565" frameHeight="627"/>
+	<SubTexture name="riodasu right0005" x="3329" y="1254" width="558" height="627" frameX="0" frameY="0" frameWidth="565" frameHeight="627"/>
+	<SubTexture name="riodasu right0006" x="3329" y="1254" width="558" height="627" frameX="0" frameY="0" frameWidth="565" frameHeight="627"/>
+	<SubTexture name="riodasu right0007" x="3329" y="1254" width="558" height="627" frameX="0" frameY="0" frameWidth="565" frameHeight="627"/>
+	<SubTexture name="riodasu right0008" x="3329" y="1254" width="558" height="627" frameX="0" frameY="0" frameWidth="565" frameHeight="627"/>
+	<SubTexture name="riodasu up0000" x="0" y="1881" width="551" height="627"/>
+	<SubTexture name="riodasu up0001" x="551" y="1881" width="551" height="627"/>
+	<SubTexture name="riodasu up0002" x="1102" y="1881" width="551" height="627"/>
+	<SubTexture name="riodasu up0003" x="1653" y="1881" width="551" height="627"/>
+	<SubTexture name="riodasu up0004" x="2204" y="1881" width="551" height="627"/>
+	<SubTexture name="riodasu up0005" x="2755" y="1881" width="551" height="627"/>
+	<SubTexture name="riodasu up0006" x="2755" y="1881" width="551" height="627"/>
+	<SubTexture name="riodasu up0007" x="2755" y="1881" width="551" height="627"/>
+	<SubTexture name="riodasu up0008" x="2755" y="1881" width="551" height="627"/>
+	<SubTexture name="riodasu up0009" x="2755" y="1881" width="551" height="627"/>
+</TextureAtlas>

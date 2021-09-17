@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coffin.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cofin down0000" x="0" y="0" width="801" height="515"/>
+	<SubTexture name="cofin down0001" x="801" y="0" width="801" height="515"/>
+	<SubTexture name="cofin down0002" x="1602" y="0" width="801" height="515"/>
+	<SubTexture name="cofin down0003" x="2403" y="0" width="801" height="515"/>
+	<SubTexture name="cofin down0004" x="3204" y="0" width="801" height="515"/>
+	<SubTexture name="cofin down0005" x="3204" y="0" width="801" height="515"/>
+	<SubTexture name="cofin down0006" x="3204" y="0" width="801" height="515"/>
+	<SubTexture name="cofin down0007" x="3204" y="0" width="801" height="515"/>
+	<SubTexture name="cofin down0008" x="3204" y="0" width="801" height="515"/>
+	<SubTexture name="cofin down0009" x="3204" y="0" width="801" height="515"/>
+	<SubTexture name="cofin idle0000" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin idle0001" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin idle0002" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin idle0003" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin idle0004" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin idle0005" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin idle0006" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin idle0007" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin idle0008" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin idle0009" x="0" y="515" width="801" height="515"/>
+	<SubTexture name="cofin left0000" x="801" y="515" width="801" height="515" frameX="-13" frameY="0" frameWidth="814" frameHeight="515"/>
+	<SubTexture name="cofin left0001" x="1602" y="515" width="814" height="515"/>
+	<SubTexture name="cofin left0002" x="2416" y="515" width="801" height="515" frameX="-13" frameY="0" frameWidth="814" frameHeight="515"/>
+	<SubTexture name="cofin left0003" x="3217" y="515" width="801" height="515" frameX="-13" frameY="0" frameWidth="814" frameHeight="515"/>
+	<SubTexture name="cofin left0004" x="0" y="1030" width="801" height="515" frameX="-13" frameY="0" frameWidth="814" frameHeight="515"/>
+	<SubTexture name="cofin left0005" x="801" y="1030" width="801" height="515" frameX="-13" frameY="0" frameWidth="814" frameHeight="515"/>
+	<SubTexture name="cofin left0006" x="801" y="1030" width="801" height="515" frameX="-13" frameY="0" frameWidth="814" frameHeight="515"/>
+	<SubTexture name="cofin left0007" x="801" y="1030" width="801" height="515" frameX="-13" frameY="0" frameWidth="814" frameHeight="515"/>
+	<SubTexture name="cofin left0008" x="801" y="1030" width="801" height="515" frameX="-13" frameY="0" frameWidth="814" frameHeight="515"/>
+	<SubTexture name="cofin left0009" x="801" y="1030" width="801" height="515" frameX="-13" frameY="0" frameWidth="814" frameHeight="515"/>
+	<SubTexture name="cofin right0000" x="1602" y="1030" width="801" height="515"/>
+	<SubTexture name="cofin right0001" x="2403" y="1030" width="801" height="515"/>
+	<SubTexture name="cofin right0002" x="3204" y="1030" width="801" height="515"/>
+	<SubTexture name="cofin right0003" x="0" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin right0004" x="801" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin right0005" x="801" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin right0006" x="801" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin right0007" x="801" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin right0008" x="801" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin right0009" x="801" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin up0000" x="1602" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin up0001" x="2403" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin up0002" x="3204" y="1545" width="801" height="515"/>
+	<SubTexture name="cofin up0003" x="0" y="2060" width="801" height="515"/>
+	<SubTexture name="cofin up0004" x="801" y="2060" width="801" height="515"/>
+	<SubTexture name="cofin up0005" x="801" y="2060" width="801" height="515"/>
+	<SubTexture name="cofin up0006" x="801" y="2060" width="801" height="515"/>
+	<SubTexture name="cofin up0007" x="801" y="2060" width="801" height="515"/>
+	<SubTexture name="cofin up0008" x="801" y="2060" width="801" height="515"/>
+	<SubTexture name="cofin up0009" x="801" y="2060" width="801" height="515"/>
+</TextureAtlas>
